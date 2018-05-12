@@ -1,0 +1,27 @@
+_repo: Goethe--Een-Levensbeschrijving_29216
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: D'Oliveira, E. (Elias)
+    alias: D'Oliveira, Abraham Elias Jessurun
+    birthdate: 1886
+    deathdate: 1944
+    gutenberg_agent_id: '3312'
+    url: http://www.gutenberg.org/2009/agents/3312
+description: ''
+gutenberg_issued: '2009-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29216'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832'
+title: 'Goethe: Een Levensbeschrijving'
+url: http://www.gutenberg.org/ebooks/29216
